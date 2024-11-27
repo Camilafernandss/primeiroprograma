@@ -6,6 +6,10 @@ public class Executavel {
 		System.out.println("olá mundo");
 		
 		System.out.println("meu nome é Camila");
-		
+	    int inteiro;
+	    double numeroDecimal;
+	    String texto;
+	    
+	  
 	}   
 }
